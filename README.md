@@ -13,4 +13,4 @@
 创建时间为2023年2月17日
 
 图床图片格式：
-'![](https://raw.githubusercontent.com/wenshangshang/Picture/master/Mac/xx.png)'
+![](https://raw.githubusercontent.com/wenshangshang/Picture/master/Mac/xx.xx)'
